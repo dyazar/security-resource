@@ -2,7 +2,7 @@
 
 This repository is curated of cloud & security resources like tools, books, tutorial, etc. 
 
-## [Contents](#contents)
+## Contents
 
 - [DNS tool](#dns-tools)
 - [Cloud Monitoring Tools](#cloud-monitoring-tools)
