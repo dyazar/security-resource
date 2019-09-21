@@ -10,8 +10,6 @@ This repository is curated of cloud & security resources like tools, books, tuto
 ## DNS tools
 This is list of dns tools for looking up DNS.
 
-<<<<<<< HEAD
-## Detail Content (e.g. Cloud tools)
 | No  | Name                                                          | Description                                                                                                           |
 | --- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | 1   | [DNSdumpster](https://dnsdumpster.com/)                       | dns recon & research, find & lookup dns records                                                                       |
