@@ -7,9 +7,9 @@ This repository is curated of cloud & security resources like tools, books, tuto
 - Add contents here...
 
 ## Detail Content (e.g. Cloud tools)
-| #no | Name | Description |
+| No | Name | Description |
 |-----|------|-------------|
-|1|Sample Tools|Sample Description|
+|1|[DNSdumpster](https://dnsdumpster.com/)|dns recon & research, find & lookup dns records|
 
 ## Contributor
-Add here
+- [eduwarna](https://github.com/edsuwarna)
