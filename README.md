@@ -9,13 +9,15 @@ This repository is curated of cloud & security resources like tools, books, tuto
 
 ## DNS tools
 This is list of dns tools for looking up DNS.
+
 | No | Name | Description |
 |-----|------|-------------|
 |1|[DNSdumpster](https://dnsdumpster.com/)|dns recon & research, find & lookup dns records|
 |2|[Cachedview](https://cachedview.com)|The Google Cache Browser for any page on Internet|
 
 ## Cloud Monitoring Tools
-This sections are list of 
+This sections are list of cloud monitoring tools
+
 | No | Name | Description |
 |-----|------|-------------|
 |1|[Kiali](https://www.kiali.io/)|Service mesh observability and configuration|
