@@ -4,17 +4,17 @@ This repository is curated of cloud & security resources like tools, books, tuto
 
 ## [Contents](#contents)
 
-- [DNS tool](#dns-tool)
-- [Cloud Monitoring Tools](#cloud-monitoring-dashboard)
+- [DNS tool](#dns-tools)
+- [Cloud Monitoring Tools](#cloud-monitoring-tools)
 
-## [DNS Tool](#dns-tool)
+## DNS tools
 This is list of dns tools for looking up DNS.
 | No | Name | Description |
 |-----|------|-------------|
 |1|[DNSdumpster](https://dnsdumpster.com/)|dns recon & research, find & lookup dns records|
 |2|[Cachedview](https://cachedview.com)|The Google Cache Browser for any page on Internet|
 
-## [Cloud Monitoring Tools](#cloud-monitoring)
+## Cloud Monitoring Tools
 This sections are list of 
 | No | Name | Description |
 |-----|------|-------------|
